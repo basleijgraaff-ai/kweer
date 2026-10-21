@@ -1,61 +1,113 @@
 <!doctype html>
-<html lang="nl">
+<html lang="nl" data-lang="nl" data-title-nl="Privacy · kweer*" data-title-en="Privacy · kweer*">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Privacyverklaring kweer*</title>
+<title>Privacy · kweer*</title>
+<meta name="theme-color" content="#0F0D12">
 <link rel="icon" href="../favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=JetBrains+Mono:wght@600&display=swap">
 <style>
-  /* Bricolage stays for its playful look; only q/Q come from Inter Tight. */
-  @font-face { font-family: 'QFix'; src: url('../fonts/InterTight_400Regular.ttf') format('truetype'); font-weight: 400; unicode-range: U+0051, U+0071; font-display: swap; }
-  @font-face { font-family: 'QFix'; src: url('../fonts/InterTight_600SemiBold.ttf') format('truetype'); font-weight: 600; unicode-range: U+0051, U+0071; font-display: swap; }
-  @font-face { font-family: 'QFix'; src: url('../fonts/InterTight_700Bold.ttf') format('truetype'); font-weight: 700; unicode-range: U+0051, U+0071; font-display: swap; }
-  @font-face { font-family: 'QFix'; src: url('../fonts/InterTight_800ExtraBold.ttf') format('truetype'); font-weight: 800 900; unicode-range: U+0051, U+0071; font-display: swap; }
-  :root { --ink:#0F0D12; --text:#F4F1EA; --muted:#CFCAD8; --lime:#C8FF3D; }
+  @font-face { font-family: 'QFix'; src: url('../fonts/InterTight_400Regular.ttf') format('truetype'); font-weight: 400; unicode-range: U+0051, U+0071; }
+  @font-face { font-family: 'QFix'; src: url('../fonts/InterTight_700Bold.ttf') format('truetype'); font-weight: 700; unicode-range: U+0051, U+0071; }
+  @font-face { font-family: 'QFix'; src: url('../fonts/InterTight_800ExtraBold.ttf') format('truetype'); font-weight: 800 900; unicode-range: U+0051, U+0071; }
+  :root { --ink:#0F0D12; --text:#F4F1EA; --muted:#CFCAD8; --lime:#C8FF3D; --line:#2E2A36; }
+  * { box-sizing: border-box; }
+  html[data-lang="nl"] .en, html[data-lang="en"] .nl { display: none !important; }
   body { margin:0; background:var(--ink); color:var(--text); font-family:'QFix', 'Bricolage Grotesque', system-ui, sans-serif; }
-  main { max-width:720px; margin:0 auto; padding:56px 20px 80px; }
+  main { max-width:720px; margin:0 auto; padding:32px 16px 80px; }
+  .top { display:flex; justify-content:space-between; align-items:center; gap:16px; margin-bottom:32px; }
+  .langs { display:flex; padding:3px; gap:2px; border:1px solid var(--line); border-radius:20px; background:#17141C; }
+  .langs button { min-width:44px; height:32px; border:0; border-radius:16px; background:transparent; color:var(--text); font:600 12px 'JetBrains Mono', monospace; letter-spacing:.08em; cursor:pointer; }
+  .langs button[aria-pressed="true"] { background:var(--lime); color:var(--ink); }
   h1 { font-size:clamp(36px, 8vw, 56px); line-height:1; letter-spacing:-.04em; margin:0 0 8px; }
   h2 { font-size:22px; margin:32px 0 8px; }
-  p, li { font-size:17px; line-height:1.55; color:var(--muted); }
+  p, li { font-size:17px; line-height:1.6; color:var(--muted); }
   a { color:var(--lime); }
+  button:focus-visible, a:focus-visible { outline:2px solid var(--lime); outline-offset:3px; }
 </style>
+<script src="../lang.js" defer></script>
 </head>
 <body>
 <main>
-  <p><a href="../">← kweer*</a></p>
-  <h1>Privacyverklaring</h1>
-  <p>Laatst bijgewerkt: 21 oktober 2026</p>
+  <div class="top">
+    <a href="../">← kweer*</a>
+    <div class="langs" role="group" aria-label="Taal / Language">
+      <button type="button" data-set-lang="nl" aria-pressed="true" aria-label="Nederlands">NL</button>
+      <button type="button" data-set-lang="en" aria-pressed="false" aria-label="English">EN</button>
+    </div>
+  </div>
 
-  <h2>Kort gezegd</h2>
-  <p>De app kweer* verzamelt geen persoonsgegevens. Je hebt geen account nodig, er is geen tracking, geen analytics en er zijn geen advertenties.</p>
+  <div class="nl">
+    <h1>Privacy</h1>
+    <p>Laatst aangepast: 21 oktober 2026</p>
 
-  <h2>Wat er op je telefoon blijft</h2>
-  <ul>
-    <li>De steden die je kiest.</li>
-    <li>De events die je bewaart.</li>
-    <li>Of de weekend-drop aan staat.</li>
-  </ul>
-  <p>Dit wordt alleen lokaal op je eigen telefoon opgeslagen en nooit naar ons verstuurd. Verwijder je de app, dan is het weg.</p>
+    <h2>In het kort</h2>
+    <p>kweer* verzamelt geen persoonsgegevens. Je hoeft geen account te maken, we houden niet bij wat je doet en er zit geen reclame in de app.</p>
 
-  <h2>Eventlijst</h2>
-  <p>De app downloadt de actuele eventlijst van deze website (GitHub Pages). Daarbij stuurt de app geen gegevens over jou mee. GitHub kan, zoals elke webserver, technische gegevens zoals je IP-adres tijdelijk verwerken; zie de privacyverklaring van GitHub.</p>
+    <h2>Wat er op je telefoon blijft</h2>
+    <ul>
+      <li>De steden die je kiest</li>
+      <li>De events die je bewaart</li>
+      <li>Of je de weekend-drop aan hebt staan</li>
+      <li>Of je de app in het Nederlands of Engels gebruikt</li>
+    </ul>
+    <p>Dat staat alleen op je eigen telefoon en wij krijgen het nooit te zien. Gooi je de app weg, dan is het ook weg.</p>
 
-  <h2>Meldingen</h2>
-  <p>De weekend-drop is een melding die je telefoon zelf inplant voor donderdag 12:00. Er is geen pushserver en we bewaren geen apparaat-ID's.</p>
+    <h2>De eventlijst</h2>
+    <p>De app haalt de lijst met events op van deze website (gehost bij GitHub). Daarbij sturen we niks over jou mee. GitHub ziet, net als elke webserver, wel kort je IP-adres. Hoe GitHub daarmee omgaat staat in hun eigen privacyverklaring.</p>
 
-  <h2>Tips en meetups insturen</h2>
-  <p>Stuur je een tip of meetup in, dan opent de app je eigen mail-app met een concept-mail aan <a href="mailto:info@bepride.nl">info@bepride.nl</a>. Wat je verstuurt (en je e-mailadres) gebruiken we alleen om de agenda bij te werken en eventueel contact met je op te nemen over die tip. We delen het niet met anderen.</p>
+    <h2>Meldingen</h2>
+    <p>De weekend-drop plant je telefoon zelf in voor donderdag 12:00. Er zit geen server tussen en we bewaren geen gegevens van je toestel.</p>
 
-  <h2>Links naar organisatoren</h2>
-  <p>Elke eventkaart linkt naar de website van de organisator of de agenda waar het event vandaan komt. Op die sites gelden hun eigen privacyregels.</p>
+    <h2>Tips en meetups</h2>
+    <p>Stuur je een tip of meetup in, dan opent je eigen mailprogramma met een mailtje aan <a href="mailto:info@bepride.nl">info@bepride.nl</a>. Wat je stuurt (en je mailadres) gebruiken we alleen om de agenda bij te werken, en om je eventueel een vraag te stellen over je tip. We geven het aan niemand door.</p>
 
-  <h2>Voorwaarden</h2>
-  <p>Lees ook onze <a href="../voorwaarden/">algemene voorwaarden</a>.</p>
+    <h2>Links naar organisatoren</h2>
+    <p>Bij elk event staat een link naar de organisator of de agenda waar het vandaan komt. Op die sites gelden hun eigen regels.</p>
 
-  <h2>Vragen of verwijderverzoek</h2>
-  <p>Mail <a href="mailto:info@bepride.nl">info@bepride.nl</a>.</p>
+    <h2>Voorwaarden</h2>
+    <p>Zie ook de <a href="../voorwaarden/">voorwaarden</a>.</p>
+
+    <h2>Vragen?</h2>
+    <p>Mail <a href="mailto:info@bepride.nl">info@bepride.nl</a>.</p>
+  </div>
+
+  <div class="en">
+    <h1>Privacy</h1>
+    <p>Last updated: 21 October 2026</p>
+
+    <h2>The short version</h2>
+    <p>kweer* doesn't collect any personal data. You don't need an account, we don't track what you do and there are no ads in the app.</p>
+
+    <h2>What stays on your phone</h2>
+    <ul>
+      <li>The cities you pick</li>
+      <li>The events you save</li>
+      <li>Whether the weekend drop is on</li>
+      <li>Whether you use the app in English or Dutch</li>
+    </ul>
+    <p>That's stored only on your own phone and we never see it. Delete the app and it's gone.</p>
+
+    <h2>The event list</h2>
+    <p>The app downloads the event list from this website (hosted by GitHub). We don't send anything about you along with it. Like any web server, GitHub does briefly see your IP address. How GitHub handles that is in their own privacy policy.</p>
+
+    <h2>Notifications</h2>
+    <p>Your phone schedules the weekend drop itself for Thursday at 12:00. There's no server involved and we don't store anything about your device.</p>
+
+    <h2>Tips and meetups</h2>
+    <p>If you send a tip or a meetup, your own mail app opens with an email to <a href="mailto:info@bepride.nl">info@bepride.nl</a>. We only use what you send (and your email address) to update the agenda, or to ask you a question about your tip. We don't pass it on to anyone.</p>
+
+    <h2>Links to organisers</h2>
+    <p>Every event links to the organiser or the agenda it came from. Their own rules apply on those sites.</p>
+
+    <h2>Terms</h2>
+    <p>See also the <a href="../voorwaarden/">terms</a>.</p>
+
+    <h2>Questions?</h2>
+    <p>Email <a href="mailto:info@bepride.nl">info@bepride.nl</a>.</p>
+  </div>
 </main>
 </body>
 </html>
