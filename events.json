@@ -1,0 +1,853 @@
+{
+  "checkedAt": "2026-10-21",
+  "events": [
+    {
+      "id": "amsterdam-2026-10-24-lgbt-history-tour",
+      "city": "Amsterdam",
+      "date": "2026-10-24",
+      "start": "11:00",
+      "end": null,
+      "title": "LGBT History Tour",
+      "venue": "Homomonument",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Cultuur",
+        "Wandeling"
+      ],
+      "description": "Engelstalige wandeltour van twee uur langs de queer geschiedenis van Amsterdam.",
+      "url": "https://www.qmeet.nl/in/amsterdam/610/lgbt-history-tour-amsterdam",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-24-red-light-drag-cabaret",
+      "city": "Amsterdam",
+      "date": "2026-10-24",
+      "start": "14:30",
+      "end": null,
+      "title": "Red Light Drag Cabaret",
+      "venue": "Casa Rosso",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Drag"
+      ],
+      "description": "Middagvoorstelling drag-cabaret met queens uit Drag Race.",
+      "url": "https://www.qmeet.nl/in/amsterdam/1942/red-light-drag-cabaret",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-24-coward-film",
+      "city": "Amsterdam",
+      "date": "2026-10-24",
+      "start": "16:30",
+      "end": null,
+      "title": "Coward (film)",
+      "venue": "Het Ketelhuis",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Film"
+      ],
+      "description": "Film van Lukas Dhont over twee jongens die elkaar ontmoeten tijdens de Eerste Wereldoorlog.",
+      "url": "https://www.qmeet.nl/in/amsterdam/2014/coward",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-24-pretty-ugly-queer-folk-night",
+      "city": "Amsterdam",
+      "date": "2026-10-24",
+      "start": "20:30",
+      "end": null,
+      "title": "Pretty//Ugly: queer folk night",
+      "venue": "OCCII",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Muziek"
+      ],
+      "description": "Avond met queer folk en radicale traditionele muziek.",
+      "url": "https://www.qmeet.nl/in/amsterdam/1593/pretty-ugly-goblin-band-uk-the-silver-field-uk-moonbugs",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-24-slay-the-night-away-met-pixxie-colada",
+      "city": "Amsterdam",
+      "date": "2026-10-24",
+      "start": "22:00",
+      "end": null,
+      "title": "Slay The Night Away! met Pixxie Colada",
+      "venue": "Lellebel",
+      "address": null,
+      "price": "gratis",
+      "tags": [
+        "Drag"
+      ],
+      "description": "Gratis dragshow in Lellebel.",
+      "url": "https://www.qmeet.nl/in/amsterdam/1990/slay-the-night-away-with-pixxie-colada",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-26-showdown-monday-drag-talentenjacht",
+      "city": "Amsterdam",
+      "date": "2026-10-26",
+      "start": "20:30",
+      "end": null,
+      "title": "Showdown Monday: drag talentenjacht",
+      "venue": "The Queen's Head",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Drag"
+      ],
+      "description": "Dragwedstrijd waarbij het applaus van het publiek de winnaar bepaalt.",
+      "url": "https://www.qmeet.nl/in/amsterdam/598/showdown-monday-drag-talent-competition",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-27-queer-poetry-night",
+      "city": "Amsterdam",
+      "date": "2026-10-27",
+      "start": "19:00",
+      "end": null,
+      "title": "Queer Poetry Night",
+      "venue": "Pakhuis de Zwijger",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Cultuur",
+        "Open mic"
+      ],
+      "description": "Open mic voor spoken word, poëzie en verhalen.",
+      "url": "https://www.qmeet.nl/in/amsterdam/14/queer-poetry-night",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-29-queer-neurodivergent-women-night",
+      "city": "Amsterdam",
+      "date": "2026-10-29",
+      "start": "20:00",
+      "end": null,
+      "title": "Queer Neurodivergent Women Night",
+      "venue": "Bar Buka",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "Sapphic"
+      ],
+      "description": "Sociale avond voor queer neurodivergente vrouwen en vrienden.",
+      "url": "https://www.qmeet.nl/in/amsterdam/1756/queer-neurodivergent-women-night",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-29-serve-queer-comedy-chaos",
+      "city": "Amsterdam",
+      "date": "2026-10-29",
+      "start": "21:00",
+      "end": null,
+      "title": "SERVE: Queer Comedy Chaos",
+      "venue": "Lellebel",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Comedy",
+        "EN"
+      ],
+      "description": "Stand-up, spelletjes en alternatieve comedy van queer comedians, in het Engels.",
+      "url": "https://www.qmeet.nl/in/amsterdam/22/serve-queer-comedy-chaos-in-english",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-30-q-kitchen",
+      "city": "Amsterdam",
+      "date": "2026-10-30",
+      "start": "18:00",
+      "end": null,
+      "title": "Q Kitchen",
+      "venue": "Buurthuis De Horizon",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Eten"
+      ],
+      "description": "Samen koken en eten met andere LHBTQ+ foodies.",
+      "url": "https://www.qmeet.nl/in/amsterdam/496/q-kitchen-by-aydin-nata",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "amsterdam-2026-10-30-trans-and-friends-cafe-inclusion-open-mic",
+      "city": "Amsterdam",
+      "date": "2026-10-30",
+      "start": "20:00",
+      "end": null,
+      "title": "Trans and Friends Café InClusion + open mic",
+      "venue": "Plein Theater",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Trans & nb",
+        "Open mic"
+      ],
+      "description": "Maandelijkse meetup voor trans, non-binaire en queer mensen, met open mic.",
+      "url": "https://www.qmeet.nl/in/amsterdam/646/trans-and-friends-caf-inclusion-open-mic",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "amsterdam-2026-10-30-friyay-drinks",
+      "city": "Amsterdam",
+      "date": "2026-10-30",
+      "start": "20:00",
+      "end": null,
+      "title": "Friyay Drinks",
+      "venue": "Bar Buka",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel"
+      ],
+      "description": "Maandelijkse LHBT+ vrijdagborrel, van 20:00 tot 23:00.",
+      "url": "https://www.qmeet.nl/event/57/friyay-drinks",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-30-another-halloween",
+      "city": "Amsterdam",
+      "date": "2026-10-30",
+      "start": "23:00",
+      "end": null,
+      "title": "ANOTHER HALLOWEEN",
+      "venue": "Warehouse Elementenstraat",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Party",
+        "Halloween"
+      ],
+      "description": "Queer Halloweenfeest met muziek en performances. Verkleden verplicht.",
+      "url": "https://www.qmeet.nl/in/amsterdam/1738/another-halloween",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-30-pon-di-pride",
+      "city": "Amsterdam",
+      "date": "2026-10-30",
+      "start": "23:59",
+      "end": null,
+      "title": "Pon Di Pride",
+      "venue": "Melkweg",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Party",
+        "Ballroom"
+      ],
+      "description": "Clubnacht en ball voor de zwarte en POC LHBTQI+ community.",
+      "url": "https://www.qmeet.nl/in/amsterdam/1374/pon-di-pride",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-31-fatale-cabaret-halloween-edition",
+      "city": "Amsterdam",
+      "date": "2026-10-31",
+      "start": "20:00",
+      "end": null,
+      "title": "Fatale Cabaret: Halloween Edition",
+      "venue": "Club Raum",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Drag",
+        "Comedy"
+      ],
+      "description": "Cabaret met comedy en drag, met een griezelige twist.",
+      "url": "https://www.qmeet.nl/in/amsterdam/1991/fatale-cabaret-halloween-edition",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-10-31-cello-club-night",
+      "city": "Amsterdam",
+      "date": "2026-10-31",
+      "start": "21:00",
+      "end": null,
+      "title": "Cello Club Night",
+      "venue": "Muziekgebouw aan 't IJ",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Muziek",
+        "Party"
+      ],
+      "description": "Queer avond vol dans, muziek en performance rond de cello.",
+      "url": "https://www.qmeet.nl/in/amsterdam/1971/cello-club-night",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "utrecht-2026-10-23-queer-book-club-monstrilio",
+      "city": "Utrecht",
+      "date": "2026-10-23",
+      "start": "19:00",
+      "end": null,
+      "title": "Queer Book Club: Monstrilio",
+      "venue": "De Uithoek",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Boeken",
+        "Chill"
+      ],
+      "description": "Queer boekenclub van Utrecht LGBT+: samen een boek bespreken en nieuwe mensen ontmoeten.",
+      "url": "https://www.qmeet.nl/in/utrecht/1733/queer-book-club-monstrilio",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "utrecht-2026-10-24-bougie-boozy-hike",
+      "city": "Utrecht",
+      "date": "2026-10-24",
+      "start": "10:15",
+      "end": null,
+      "title": "Bougie & Boozy Hike",
+      "venue": "Verzamelen: Utrecht Centraal",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Sport",
+        "Wandeling"
+      ],
+      "description": "Queer wandeling van 14 km van Baarn naar Bussum-Zuid, met daarna een drankje.",
+      "url": "https://www.qmeet.nl/in/utrecht/1960/bougie-boozy-hike",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "utrecht-2026-10-24-club-fataal",
+      "city": "Utrecht",
+      "date": "2026-10-24",
+      "start": "23:30",
+      "end": null,
+      "title": "Club Fataal",
+      "venue": "EKKO",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Party",
+        "Sapphic"
+      ],
+      "description": "Pop-up bar-avond: een inclusieve plek voor lesbische en queer mensen in Utrecht.",
+      "url": "https://www.qmeet.nl/in/utrecht/1908/club-fataal",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "rotterdam-2026-10-23-underground-drag",
+      "city": "Rotterdam",
+      "date": "2026-10-23",
+      "start": "23:59",
+      "end": null,
+      "title": "UNDERGROUND DRAG",
+      "venue": "Karaokebar Uniek",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Party",
+        "Drag"
+      ],
+      "description": "Campy, alternatief queer dansfeest met live dragkings en burlesque.",
+      "url": "https://www.qmeet.nl/in/rotterdam/1936/underground-drag",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "rotterdam-2026-10-24-queer-poetry-nights-rotterdam",
+      "city": "Rotterdam",
+      "date": "2026-10-24",
+      "start": "19:30",
+      "end": null,
+      "title": "Queer Poetry Nights Rotterdam",
+      "venue": "Leeszaal Rotterdam West",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Cultuur",
+        "Open mic"
+      ],
+      "description": "Maandelijkse open mic voor queer stemmen en verhalen.",
+      "url": "https://www.qmeet.nl/in/rotterdam/553/queer-poetry-nights-rotterdam",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "rotterdam-2026-10-25-sunday-afternoon-salon-50",
+      "city": "Rotterdam",
+      "date": "2026-10-25",
+      "start": "15:00",
+      "end": null,
+      "title": "Sunday Afternoon Salon (50+)",
+      "venue": "COC Rotterdam",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "50+"
+      ],
+      "description": "Middag met drankjes, hapjes en een optionele maaltijd voor LHBTQI+ 50-plussers.",
+      "url": "https://www.qmeet.nl/in/rotterdam/779/sunday-afternoon-salon",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "rotterdam-2026-10-28-queer-comedy-night",
+      "city": "Rotterdam",
+      "date": "2026-10-28",
+      "start": "20:00",
+      "end": null,
+      "title": "Queer Comedy Night",
+      "venue": "Mavis",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Comedy"
+      ],
+      "description": "Comedyavond met LHBTIQ+ comedians en allies.",
+      "url": "https://www.qmeet.nl/in/rotterdam/1937/queer-comedy-night-in-rotterdam",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "rotterdam-2026-10-29-i-kissed-a-ghoul",
+      "city": "Rotterdam",
+      "date": "2026-10-29",
+      "start": "19:00",
+      "end": null,
+      "title": "I Kissed a Ghoul",
+      "venue": "Dokhuis",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Sapphic",
+        "Dating"
+      ],
+      "description": "Griezelige sapphic datingavond met spelletjes en kostuums.",
+      "url": "https://www.qmeet.nl/in/rotterdam/2009/i-kissed-a-ghoul",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "rotterdam-2026-10-31-themamiddag-gendergeschiedenis",
+      "city": "Rotterdam",
+      "date": "2026-10-31",
+      "start": "13:30",
+      "end": null,
+      "title": "Themamiddag: gendergeschiedenis",
+      "venue": "Door2Door",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Cultuur",
+        "Trans & nb"
+      ],
+      "description": "Historicus Alex Bakker vertelt over de geschiedenis van trans personen.",
+      "url": "https://www.qmeet.nl/in/rotterdam/1938/theme-meeting-gender-history",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "rotterdam-2026-11-01-transcafe",
+      "city": "Rotterdam",
+      "date": "2026-11-01",
+      "start": "16:00",
+      "end": null,
+      "title": "TransCafé",
+      "venue": "COC Rotterdam",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Trans & nb",
+        "Chill"
+      ],
+      "description": "Open plek voor iedereen die gendervariaties verkent, om elkaar te ontmoeten.",
+      "url": "https://www.qmeet.nl/in/rotterdam/528/transcaf-coc-rotterdam",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "rotterdam-2026-11-04-women-s-eve-2026",
+      "city": "Rotterdam",
+      "date": "2026-11-04",
+      "start": "20:30",
+      "end": null,
+      "title": "Women's Eve 2026",
+      "venue": "Theater Walhalla",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Comedy",
+        "Muziek"
+      ],
+      "description": "Alternatieve oudejaarsshow met vrouwelijke artiesten: stand-up, cabaret en muziek.",
+      "url": "https://www.qmeet.nl/in/rotterdam/1912/women-s-eve-2026",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "rotterdam-2026-11-07-zine-workshop-gratis-soa-test",
+      "city": "Rotterdam",
+      "date": "2026-11-07",
+      "start": "13:00",
+      "end": null,
+      "title": "Zine-workshop + gratis soa-test",
+      "venue": "Queer Rotterdam",
+      "address": null,
+      "price": "gratis",
+      "tags": [
+        "Creatief",
+        "Gezondheid"
+      ],
+      "description": "Zines maken, met op afspraak een gratis soa-test van de GGD.",
+      "url": "https://www.qmeet.nl/in/rotterdam/1999/zine-workshop-and-free-sti-testing",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "rotterdam-2026-11-08-queer-sunday-cafe-vintage-market",
+      "city": "Rotterdam",
+      "date": "2026-11-08",
+      "start": "13:00",
+      "end": null,
+      "title": "Queer Sunday Café + Vintage Market",
+      "venue": "OASE Rotterdam",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Sapphic",
+        "Markt"
+      ],
+      "description": "Koffie, kennismakingsspelletjes en een vintagemarkt voor queer vrouwen.",
+      "url": "https://www.qmeet.nl/in/rotterdam/1202/queer-sunday-caf-vintage-market",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "den-haag-2026-10-23-queer-friday",
+      "city": "Den Haag",
+      "date": "2026-10-23",
+      "start": "20:00",
+      "end": null,
+      "title": "Queer Friday",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "Chill"
+      ],
+      "description": "Ontspannen vrijdagavond in het COC-café om nieuwe mensen te ontmoeten.",
+      "url": "https://www.qmeet.nl/in/the-hague/442/queer-friday-the-hague",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "den-haag-2026-10-24-stadswandeling-queer-geschiedenis",
+      "city": "Den Haag",
+      "date": "2026-10-24",
+      "start": "10:30",
+      "end": null,
+      "title": "Stadswandeling: queer geschiedenis",
+      "venue": "Haags Historisch Museum",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Cultuur",
+        "Wandeling"
+      ],
+      "description": "Wandeltour van twee uur langs de queer geschiedenis en het activisme van Den Haag.",
+      "url": "https://www.qmeet.nl/in/the-hague/1547/city-walks-the-hague-s-queer-history-summer-2026",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "den-haag-2026-10-24-community-talk-met-ype-driessen",
+      "city": "Den Haag",
+      "date": "2026-10-24",
+      "start": "14:30",
+      "end": null,
+      "title": "Community Talk met Ype Driessen",
+      "venue": "Bibliotheek Segbroek",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Boeken",
+        "Cultuur"
+      ],
+      "description": "Gesprek met auteur Ype Driessen over zijn nieuwe roman 'Vanilla'.",
+      "url": "https://www.qmeet.nl/in/the-hague/1594/community-talk-with-ype-driessen-and-the-queer-book-club",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "den-haag-2026-10-24-queer-aan-zee-meetup",
+      "city": "Den Haag",
+      "date": "2026-10-24",
+      "start": "16:00",
+      "end": null,
+      "title": "Queer aan Zee Meetup",
+      "venue": "Café De Prael",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel"
+      ],
+      "description": "Informele meetup om nieuwe queer mensen te ontmoeten en vrienden terug te zien.",
+      "url": "https://www.qmeet.nl/in/the-hague/492/queer-aan-zee-meetup",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "den-haag-2026-10-25-drag-bingo-brunch",
+      "city": "Den Haag",
+      "date": "2026-10-25",
+      "start": "13:00",
+      "end": null,
+      "title": "Drag Bingo Brunch",
+      "venue": "Pazze e Pizze",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Drag",
+        "Brunch"
+      ],
+      "description": "Drag-bingo, live zang en comedy bij een driegangen-brunch.",
+      "url": "https://www.qmeet.nl/in/the-hague/1989/drag-bingo-brunch",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "den-haag-2026-10-31-halloween-drag-brunch",
+      "city": "Den Haag",
+      "date": "2026-10-31",
+      "start": "11:00",
+      "end": null,
+      "title": "Halloween Drag Brunch",
+      "venue": "The Social Hub",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Drag",
+        "Brunch"
+      ],
+      "description": "Dragperformances, cocktails, spelletjes en brunch. Verkleden aangeraden.",
+      "url": "https://www.qmeet.nl/in/the-hague/1334/halloween-drag-brunch",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "den-haag-2026-11-01-queer-run-club",
+      "city": "Den Haag",
+      "date": "2026-11-01",
+      "start": "09:30",
+      "end": null,
+      "title": "Queer Run Club",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Sport"
+      ],
+      "description": "Gezellige 5 km hardlopen met andere queer mensen.",
+      "url": "https://www.qmeet.nl/in/the-hague/523/queer-run-club",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "den-haag-2026-11-01-trans-zwemmen-bij-plons",
+      "city": "Den Haag",
+      "date": "2026-11-01",
+      "start": "17:00",
+      "end": null,
+      "title": "Trans zwemmen bij Plons",
+      "venue": "HHZV Plons",
+      "address": null,
+      "price": "gratis",
+      "tags": [
+        "Sport",
+        "Trans & nb"
+      ],
+      "description": "Gratis zwemtraining voor trans en non-binaire mensen (18+), elk niveau welkom.",
+      "url": "https://www.qmeet.nl/in/the-hague/678/trans-swimming-at-plons-the-hague",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "den-haag-2026-11-06-queer-choir-in-concert",
+      "city": "Den Haag",
+      "date": "2026-11-06",
+      "start": "20:00",
+      "end": null,
+      "title": "Queer Choir in Concert",
+      "venue": "Deutsche Evangelische Gemeinde",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Muziek"
+      ],
+      "description": "Debuutconcert van een nieuw queer koor: slaapliedjes, protestliederen en anthems.",
+      "url": "https://www.qmeet.nl/in/the-hague/1939/queer-choir-in-concert",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "den-haag-2026-11-07-jam-session",
+      "city": "Den Haag",
+      "date": "2026-11-07",
+      "start": "14:00",
+      "end": null,
+      "title": "Jam Session",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Muziek",
+        "Chill"
+      ],
+      "description": "Ontspannen jazz-jamsessie voor spelers, zangers en luisteraars.",
+      "url": "https://www.qmeet.nl/in/the-hague/1824/jam-session",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "den-haag-2026-11-08-ooxo-voor-queers-met-een-beperking",
+      "city": "Den Haag",
+      "date": "2026-11-08",
+      "start": "13:00",
+      "end": null,
+      "title": "OOXO: voor queers met een beperking",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Chill"
+      ],
+      "description": "Maandelijkse middag met activiteiten voor queer mensen met een lichamelijke of verstandelijke beperking.",
+      "url": "https://www.qmeet.nl/in/the-hague/1823/ooxo-for-queers-with-a-disability",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "amsterdam-2026-10-25-de-trut",
+      "city": "Amsterdam",
+      "date": "2026-10-25",
+      "start": "22:00",
+      "end": "03:00",
+      "title": "De Trut",
+      "venue": "De Trut",
+      "address": "Bilderdijkstraat 165E",
+      "price": null,
+      "tags": [
+        "Party",
+        "Alleen contant"
+      ],
+      "description": "Wekelijkse queer disco door vrijwilligers; de opbrengst gaat naar LHBTQ+-doelen.",
+      "url": "https://www.misterbandb.com/gay-guide/netherlands/amsterdam/parties",
+      "recurring": true,
+      "confidence": "medium",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-11-01-de-trut",
+      "city": "Amsterdam",
+      "date": "2026-11-01",
+      "start": "22:00",
+      "end": "03:00",
+      "title": "De Trut",
+      "venue": "De Trut",
+      "address": "Bilderdijkstraat 165E",
+      "price": null,
+      "tags": [
+        "Party",
+        "Alleen contant"
+      ],
+      "description": "Wekelijkse queer disco door vrijwilligers; de opbrengst gaat naar LHBTQ+-doelen.",
+      "url": "https://www.misterbandb.com/gay-guide/netherlands/amsterdam/parties",
+      "recurring": true,
+      "confidence": "medium",
+      "community": false
+    },
+    {
+      "id": "amsterdam-2026-11-08-de-trut",
+      "city": "Amsterdam",
+      "date": "2026-11-08",
+      "start": "22:00",
+      "end": "03:00",
+      "title": "De Trut",
+      "venue": "De Trut",
+      "address": "Bilderdijkstraat 165E",
+      "price": null,
+      "tags": [
+        "Party",
+        "Alleen contant"
+      ],
+      "description": "Wekelijkse queer disco door vrijwilligers; de opbrengst gaat naar LHBTQ+-doelen.",
+      "url": "https://www.misterbandb.com/gay-guide/netherlands/amsterdam/parties",
+      "recurring": true,
+      "confidence": "medium",
+      "community": false
+    }
+  ]
+}
