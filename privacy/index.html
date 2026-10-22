@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy · kweer*</title>
-<meta name="theme-color" content="#0F0D12">
+<meta name="theme-color" content="#FFFFFF">
 <link rel="icon" href="../favicon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=JetBrains+Mono:wght@600&display=swap">
@@ -12,20 +12,20 @@
   @font-face { font-family: 'QFix'; src: url('../fonts/InterTight_400Regular.ttf') format('truetype'); font-weight: 400; unicode-range: U+0051, U+0071; }
   @font-face { font-family: 'QFix'; src: url('../fonts/InterTight_700Bold.ttf') format('truetype'); font-weight: 700; unicode-range: U+0051, U+0071; }
   @font-face { font-family: 'QFix'; src: url('../fonts/InterTight_800ExtraBold.ttf') format('truetype'); font-weight: 800 900; unicode-range: U+0051, U+0071; }
-  :root { --ink:#0F0D12; --text:#F4F1EA; --muted:#CFCAD8; --lime:#C8FF3D; --line:#2E2A36; }
+  :root { --ink:#1E1426; --bg:#FFFFFF; --text:#1E1426; --muted:#4B4053; --lime:#FF5CA8; --accent:#D81B6A; --line:#EADFD3; }
   * { box-sizing: border-box; }
   html[data-lang="nl"] .en, html[data-lang="en"] .nl { display: none !important; }
-  body { margin:0; background:var(--ink); color:var(--text); font-family:'QFix', 'Bricolage Grotesque', system-ui, sans-serif; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:'QFix', 'Bricolage Grotesque', system-ui, sans-serif; }
   main { max-width:720px; margin:0 auto; padding:32px 16px 80px; }
   .top { display:flex; justify-content:space-between; align-items:center; gap:16px; margin-bottom:32px; }
-  .langs { display:flex; padding:3px; gap:2px; border:1px solid var(--line); border-radius:20px; background:#17141C; }
+  .langs { display:flex; padding:3px; gap:2px; border:1px solid var(--line); border-radius:20px; background:#F7F3FC; }
   .langs button { min-width:44px; height:32px; border:0; border-radius:16px; background:transparent; color:var(--text); font:600 12px 'JetBrains Mono', monospace; letter-spacing:.08em; cursor:pointer; }
   .langs button[aria-pressed="true"] { background:var(--lime); color:var(--ink); }
   h1 { font-size:clamp(36px, 8vw, 56px); line-height:1; letter-spacing:-.04em; margin:0 0 8px; }
   h2 { font-size:22px; margin:32px 0 8px; }
   p, li { font-size:17px; line-height:1.6; color:var(--muted); }
-  a { color:var(--lime); }
-  button:focus-visible, a:focus-visible { outline:2px solid var(--lime); outline-offset:3px; }
+  a { color:var(--accent); }
+  button:focus-visible, a:focus-visible { outline:2px solid var(--accent); outline-offset:3px; }
 </style>
 <script src="../lang.js" defer></script>
 </head>
