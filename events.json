@@ -706,6 +706,28 @@
       "community": false
     },
     {
+      "id": "amsterdam-2026-11-01-vallende-sterren-de-podcast-nieuwe-aflevering",
+      "city": "Amsterdam",
+      "date": "2026-11-01",
+      "start": null,
+      "end": null,
+      "title": "Vallende Sterren de Podcast: nieuwe aflevering",
+      "venue": "Online",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Podcast",
+        "Online",
+        "Drag"
+      ],
+      "description": "Elke zondag een nieuwe aflevering van de queer podcast van dragqueens Nicky Jakk en Glam from the Dam.",
+      "descriptionEn": "A new episode every Sunday of the queer podcast by drag queens Nicky Jakk and Glam from the Dam.",
+      "url": "https://www.instagram.com/vallendesterrendepodcast/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": false
+    },
+    {
       "id": "amsterdam-2026-11-02-bingo-bar-blend",
       "city": "Amsterdam",
       "date": "2026-11-02",
@@ -1140,6 +1162,28 @@
       "community": false
     },
     {
+      "id": "amsterdam-2026-11-08-vallende-sterren-de-podcast-nieuwe-aflevering",
+      "city": "Amsterdam",
+      "date": "2026-11-08",
+      "start": null,
+      "end": null,
+      "title": "Vallende Sterren de Podcast: nieuwe aflevering",
+      "venue": "Online",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Podcast",
+        "Online",
+        "Drag"
+      ],
+      "description": "Elke zondag een nieuwe aflevering van de queer podcast van dragqueens Nicky Jakk en Glam from the Dam.",
+      "descriptionEn": "A new episode every Sunday of the queer podcast by drag queens Nicky Jakk and Glam from the Dam.",
+      "url": "https://www.instagram.com/vallendesterrendepodcast/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": false
+    },
+    {
       "id": "amsterdam-2026-11-09-bingo-bar-blend",
       "city": "Amsterdam",
       "date": "2026-11-09",
@@ -1345,6 +1389,28 @@
       "recurring": true,
       "confidence": "medium",
       "community": true
+    },
+    {
+      "id": "amsterdam-2026-11-15-vallende-sterren-de-podcast-nieuwe-aflevering",
+      "city": "Amsterdam",
+      "date": "2026-11-15",
+      "start": null,
+      "end": null,
+      "title": "Vallende Sterren de Podcast: nieuwe aflevering",
+      "venue": "Online",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Podcast",
+        "Online",
+        "Drag"
+      ],
+      "description": "Elke zondag een nieuwe aflevering van de queer podcast van dragqueens Nicky Jakk en Glam from the Dam.",
+      "descriptionEn": "A new episode every Sunday of the queer podcast by drag queens Nicky Jakk and Glam from the Dam.",
+      "url": "https://www.instagram.com/vallendesterrendepodcast/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": false
     },
     {
       "id": "den-haag-2026-11-16-queer-book-club-confessions-of-a-mask",
@@ -1781,6 +1847,28 @@
       "community": true
     },
     {
+      "id": "amsterdam-2026-11-22-vallende-sterren-de-podcast-nieuwe-aflevering",
+      "city": "Amsterdam",
+      "date": "2026-11-22",
+      "start": null,
+      "end": null,
+      "title": "Vallende Sterren de Podcast: nieuwe aflevering",
+      "venue": "Online",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Podcast",
+        "Online",
+        "Drag"
+      ],
+      "description": "Elke zondag een nieuwe aflevering van de queer podcast van dragqueens Nicky Jakk en Glam from the Dam.",
+      "descriptionEn": "A new episode every Sunday of the queer podcast by drag queens Nicky Jakk and Glam from the Dam.",
+      "url": "https://www.instagram.com/vallendesterrendepodcast/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": false
+    },
+    {
       "id": "den-haag-2026-11-25-eetcafe-bij-coc-haaglanden",
       "city": "Den Haag",
       "date": "2026-11-25",
@@ -1904,6 +1992,28 @@
       "recurring": false,
       "confidence": "high",
       "community": true
+    },
+    {
+      "id": "amsterdam-2026-11-29-vallende-sterren-de-podcast-nieuwe-aflevering",
+      "city": "Amsterdam",
+      "date": "2026-11-29",
+      "start": null,
+      "end": null,
+      "title": "Vallende Sterren de Podcast: nieuwe aflevering",
+      "venue": "Online",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Podcast",
+        "Online",
+        "Drag"
+      ],
+      "description": "Elke zondag een nieuwe aflevering van de queer podcast van dragqueens Nicky Jakk en Glam from the Dam.",
+      "descriptionEn": "A new episode every Sunday of the queer podcast by drag queens Nicky Jakk and Glam from the Dam.",
+      "url": "https://www.instagram.com/vallendesterrendepodcast/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": false
     }
   ]
 }
