@@ -105,6 +105,27 @@
       "community": false
     },
     {
+      "id": "den-haag-2026-10-28-eetcafe-bij-coc-haaglanden",
+      "city": "Den Haag",
+      "date": "2026-10-28",
+      "start": "16:00",
+      "end": "21:00",
+      "title": "Eetcafé bij COC Haaglanden",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Eten",
+        "Borrel"
+      ],
+      "description": "Elke woensdag samen eten in het COC.",
+      "descriptionEn": "Shared dinner at the COC every Wednesday.",
+      "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-10-28/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "rotterdam-2026-10-28-queer-comedy-night",
       "city": "Rotterdam",
       "date": "2026-10-28",
@@ -373,6 +394,27 @@
       "community": false
     },
     {
+      "id": "den-haag-2026-10-30-queer-vrijdag",
+      "city": "Den Haag",
+      "date": "2026-10-30",
+      "start": "20:00",
+      "end": "23:00",
+      "title": "Queer Vrijdag",
+      "venue": "COC Café",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "Chill"
+      ],
+      "description": "Ontspannen vrijdagavond in het COC-café om nieuwe mensen te ontmoeten.",
+      "descriptionEn": "A relaxed Friday evening at the COC café to meet new people.",
+      "url": "https://www.cochaaglanden.nl/event/queer-vrijdag/2026-10-30/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "den-haag-2026-10-30-kenki-krin-krin",
       "city": "Den Haag",
       "date": "2026-10-30",
@@ -540,6 +582,27 @@
       "community": true
     },
     {
+      "id": "den-haag-2026-11-01-zilveruitjes",
+      "city": "Den Haag",
+      "date": "2026-11-01",
+      "start": "15:00",
+      "end": "21:00",
+      "title": "Zilveruitjes",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "50+"
+      ],
+      "description": "Gezellige middag voor regenboogsenioren, met een drankje en soms een uitje.",
+      "descriptionEn": "A social afternoon for rainbow seniors, with drinks and sometimes an outing.",
+      "url": "https://www.cochaaglanden.nl/event/zilveruitjes/2026-11-01/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "rotterdam-2026-11-01-transcafe",
       "city": "Rotterdam",
       "date": "2026-11-01",
@@ -644,6 +707,27 @@
       "community": false
     },
     {
+      "id": "den-haag-2026-11-04-eetcafe-bij-coc-haaglanden",
+      "city": "Den Haag",
+      "date": "2026-11-04",
+      "start": "16:00",
+      "end": "21:00",
+      "title": "Eetcafé bij COC Haaglanden",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Eten",
+        "Borrel"
+      ],
+      "description": "Elke woensdag samen eten in het COC.",
+      "descriptionEn": "Shared dinner at the COC every Wednesday.",
+      "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-11-04/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "rotterdam-2026-11-04-women-s-eve-2026",
       "city": "Rotterdam",
       "date": "2026-11-04",
@@ -725,6 +809,27 @@
       "community": false
     },
     {
+      "id": "den-haag-2026-11-06-queer-vrijdag",
+      "city": "Den Haag",
+      "date": "2026-11-06",
+      "start": "20:00",
+      "end": "23:00",
+      "title": "Queer Vrijdag",
+      "venue": "COC Café",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "Chill"
+      ],
+      "description": "Ontspannen vrijdagavond in het COC-café om nieuwe mensen te ontmoeten.",
+      "descriptionEn": "A relaxed Friday evening at the COC café to meet new people.",
+      "url": "https://www.cochaaglanden.nl/event/queer-vrijdag/2026-11-06/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "amsterdam-2026-11-06-emily-salvia-before-i-m-30",
       "city": "Amsterdam",
       "date": "2026-11-06",
@@ -785,6 +890,27 @@
       "url": "https://www.qmeet.nl/in/the-hague/1824/jam-session",
       "recurring": false,
       "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "den-haag-2026-11-07-jam-sessie",
+      "city": "Den Haag",
+      "date": "2026-11-07",
+      "start": "14:00",
+      "end": "17:00",
+      "title": "Jam Sessie",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Muziek",
+        "Chill"
+      ],
+      "description": "Ontspannen jazz-jamsessie voor spelers, zangers en luisteraars.",
+      "descriptionEn": "Relaxed jazz jam session for players, singers and listeners.",
+      "url": "https://www.cochaaglanden.nl/event/jam-sessie/2026-11-07/",
+      "recurring": true,
+      "confidence": "medium",
       "community": true
     },
     {
@@ -933,6 +1059,27 @@
       "community": false
     },
     {
+      "id": "den-haag-2026-11-11-eetcafe-bij-coc-haaglanden",
+      "city": "Den Haag",
+      "date": "2026-11-11",
+      "start": "16:00",
+      "end": "21:00",
+      "title": "Eetcafé bij COC Haaglanden",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Eten",
+        "Borrel"
+      ],
+      "description": "Elke woensdag samen eten in het COC.",
+      "descriptionEn": "Shared dinner at the COC every Wednesday.",
+      "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-11-11/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "amsterdam-2026-11-12-rainbow-living-room-dance-palace",
       "city": "Amsterdam",
       "date": "2026-11-12",
@@ -951,6 +1098,27 @@
       "url": "https://www.qmeet.nl/in/amsterdam/1544/rainbow-living-room-dance-palace",
       "recurring": false,
       "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "den-haag-2026-11-13-queer-vrijdag",
+      "city": "Den Haag",
+      "date": "2026-11-13",
+      "start": "20:00",
+      "end": "23:00",
+      "title": "Queer Vrijdag",
+      "venue": "COC Café",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "Chill"
+      ],
+      "description": "Ontspannen vrijdagavond in het COC-café om nieuwe mensen te ontmoeten.",
+      "descriptionEn": "A relaxed Friday evening at the COC café to meet new people.",
+      "url": "https://www.cochaaglanden.nl/event/queer-vrijdag/2026-11-13/",
+      "recurring": true,
+      "confidence": "medium",
       "community": true
     },
     {
@@ -1056,6 +1224,27 @@
       "community": true
     },
     {
+      "id": "den-haag-2026-11-15-zilveruitjes",
+      "city": "Den Haag",
+      "date": "2026-11-15",
+      "start": "15:00",
+      "end": "21:00",
+      "title": "Zilveruitjes",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "50+"
+      ],
+      "description": "Gezellige middag voor regenboogsenioren, met een drankje en soms een uitje.",
+      "descriptionEn": "A social afternoon for rainbow seniors, with drinks and sometimes an outing.",
+      "url": "https://www.cochaaglanden.nl/event/zilveruitjes-2/2026-11-15/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "den-haag-2026-11-16-queer-book-club-confessions-of-a-mask",
       "city": "Den Haag",
       "date": "2026-11-16",
@@ -1136,6 +1325,27 @@
       "recurring": false,
       "confidence": "high",
       "community": false
+    },
+    {
+      "id": "den-haag-2026-11-18-eetcafe-bij-coc-haaglanden",
+      "city": "Den Haag",
+      "date": "2026-11-18",
+      "start": "16:00",
+      "end": "21:00",
+      "title": "Eetcafé bij COC Haaglanden",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Eten",
+        "Borrel"
+      ],
+      "description": "Elke woensdag samen eten in het COC.",
+      "descriptionEn": "Shared dinner at the COC every Wednesday.",
+      "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-11-18/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
     },
     {
       "id": "utrecht-2026-11-18-queer-notes",
@@ -1304,6 +1514,27 @@
       "community": true
     },
     {
+      "id": "den-haag-2026-11-20-regenboog-huiskamer-danspaleis",
+      "city": "Den Haag",
+      "date": "2026-11-20",
+      "start": "20:00",
+      "end": "21:30",
+      "title": "Regenboog Huiskamer Danspaleis",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Dans",
+        "50+"
+      ],
+      "description": "Dansavond met DJ voor LHBTIQ+ 55-plussers.",
+      "descriptionEn": "A dance night with a DJ for LGBTIQ+ people aged 55 and over.",
+      "url": "https://www.cochaaglanden.nl/event/regenboog-huiskamer-danspaleis/2026-11-20/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "amsterdam-2026-11-20-beyond-the-ball",
       "city": "Amsterdam",
       "date": "2026-11-20",
@@ -1386,6 +1617,27 @@
       "community": false
     },
     {
+      "id": "den-haag-2026-11-25-eetcafe-bij-coc-haaglanden",
+      "city": "Den Haag",
+      "date": "2026-11-25",
+      "start": "16:00",
+      "end": "21:00",
+      "title": "Eetcafé bij COC Haaglanden",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Eten",
+        "Borrel"
+      ],
+      "description": "Elke woensdag samen eten in het COC.",
+      "descriptionEn": "Shared dinner at the COC every Wednesday.",
+      "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-11-25/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "utrecht-2026-11-26-in-gesprek-met-queer-asielzoekers",
       "city": "Utrecht",
       "date": "2026-11-26",
@@ -1405,6 +1657,27 @@
       "recurring": false,
       "confidence": "high",
       "community": false
+    },
+    {
+      "id": "den-haag-2026-11-27-queer-vrijdag",
+      "city": "Den Haag",
+      "date": "2026-11-27",
+      "start": "20:00",
+      "end": "23:00",
+      "title": "Queer Vrijdag",
+      "venue": "COC Café",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "Chill"
+      ],
+      "description": "Ontspannen vrijdagavond in het COC-café om nieuwe mensen te ontmoeten.",
+      "descriptionEn": "A relaxed Friday evening at the COC café to meet new people.",
+      "url": "https://www.cochaaglanden.nl/event/queer-vrijdag/2026-11-27/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
     },
     {
       "id": "utrecht-2026-11-28-dynamiq-voices-queer-koor",
