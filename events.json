@@ -291,6 +291,26 @@
       "community": false
     },
     {
+      "id": "utrecht-2026-10-29-mystiek-lichaam",
+      "city": "Utrecht",
+      "date": "2026-10-29",
+      "start": "20:00",
+      "end": null,
+      "title": "Mystiek Lichaam",
+      "venue": "Theater Kikker",
+      "address": "Ganzenmarkt 14",
+      "price": null,
+      "tags": [
+        "Theater"
+      ],
+      "description": "Toneelbewerking van de omstreden roman van Frans Kellendonk over een verdeeld Nederlands gezin.",
+      "descriptionEn": "Stage adaptation of Frans Kellendonk’s controversial novel about a divided Dutch family.",
+      "url": "https://www.theaterkikker.nl/agenda/mystiek-lichaam",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
       "id": "amsterdam-2026-10-29-serve-queer-comedy-chaos",
       "city": "Amsterdam",
       "date": "2026-10-29",
@@ -728,6 +748,26 @@
       "community": true
     },
     {
+      "id": "rotterdam-2026-11-04-mystiek-lichaam",
+      "city": "Rotterdam",
+      "date": "2026-11-04",
+      "start": "20:15",
+      "end": null,
+      "title": "Mystiek Lichaam",
+      "venue": "Theater Rotterdam (TR25)",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Theater"
+      ],
+      "description": "Toneelbewerking van Kellendonks roman over een weduwnaar en zijn twee volwassen kinderen.",
+      "descriptionEn": "Stage adaptation of Kellendonk’s novel about a widower and his two adult children.",
+      "url": "https://www.qmeet.nl/in/rotterdam/1027/mystical-body",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
       "id": "rotterdam-2026-11-04-women-s-eve-2026",
       "city": "Rotterdam",
       "date": "2026-11-04",
@@ -851,6 +891,27 @@
       "community": false
     },
     {
+      "id": "utrecht-2026-11-07-roze-wandeling-50plus-coc",
+      "city": "Utrecht",
+      "date": "2026-11-07",
+      "start": "08:00",
+      "end": "18:00",
+      "title": "Roze Wandeling (50Plus COC)",
+      "venue": "COC Midden-Nederland",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Wandeling",
+        "50+"
+      ],
+      "description": "Wandeldag van 50Plus COC Midden-Nederland.",
+      "descriptionEn": "A walking day organised by 50Plus COC Midden-Nederland.",
+      "url": "https://www.cocmiddennederland.nl/events/roze-wandeling-50plus-coc-mnl-2",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
       "id": "rotterdam-2026-11-07-zine-workshop-gratis-soa-test",
       "city": "Rotterdam",
       "date": "2026-11-07",
@@ -934,6 +995,26 @@
       "community": false
     },
     {
+      "id": "rotterdam-2026-11-07-queering-intimacy-workshop",
+      "city": "Rotterdam",
+      "date": "2026-11-07",
+      "start": "19:00",
+      "end": null,
+      "title": "Queering intimacy workshop",
+      "venue": "Queer Rotterdam",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Talk"
+      ],
+      "description": "Gesprek over intimiteit buiten romantische relaties, zoals vriendschap en community.",
+      "descriptionEn": "A conversation about intimacy beyond romantic relationships, like friendship and community.",
+      "url": "https://www.qmeet.nl/in/rotterdam/2000/queering-intimacy-workshop",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
       "id": "den-haag-2026-11-07-jeanette-winterson-in-gesprek",
       "city": "Den Haag",
       "date": "2026-11-07",
@@ -991,6 +1072,27 @@
       "description": "Maandelijkse middag met activiteiten voor queer mensen met een lichamelijke of verstandelijke beperking.",
       "descriptionEn": "Monthly afternoon of activities for queer people with a physical or intellectual disability.",
       "url": "https://www.qmeet.nl/in/the-hague/1823/ooxo-for-queers-with-a-disability",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "utrecht-2026-11-08-zondagmiddagborrel-50plus-coc",
+      "city": "Utrecht",
+      "date": "2026-11-08",
+      "start": "15:00",
+      "end": null,
+      "title": "Zondagmiddagborrel (50Plus COC)",
+      "venue": "Doopsgezinde kerk",
+      "address": "Oudegracht 270",
+      "price": null,
+      "tags": [
+        "Borrel",
+        "50+"
+      ],
+      "description": "Zondagmiddagborrel voor LHBTI+ 50-plussers.",
+      "descriptionEn": "Sunday afternoon drinks for LGBTI+ people aged 50+.",
+      "url": "https://www.cocmiddennederland.nl/events/zondagmiddag-borrel-50plus-coc-mnl-2",
       "recurring": false,
       "confidence": "high",
       "community": true
@@ -1576,6 +1678,46 @@
       "community": false
     },
     {
+      "id": "utrecht-2026-11-21-zine-workshop-welcoming-winter",
+      "city": "Utrecht",
+      "date": "2026-11-21",
+      "start": "17:00",
+      "end": "19:00",
+      "title": "Zine Workshop: Welcoming Winter",
+      "venue": "KLUP KWEER (Kaffeetaria)",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Creatief"
+      ],
+      "description": "Zines maken met The Dreamers Collective bij KLUP KWEER.",
+      "descriptionEn": "Make zines with The Dreamers Collective at KLUP KWEER.",
+      "url": "https://klupkweer.nl/events/workshop/",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "utrecht-2026-11-21-autiroze-borrel",
+      "city": "Utrecht",
+      "date": "2026-11-21",
+      "start": "19:00",
+      "end": "22:30",
+      "title": "AutiRoze borrel",
+      "venue": "In de 3 Krone",
+      "address": "Oudegracht 227",
+      "price": null,
+      "tags": [
+        "Borrel"
+      ],
+      "description": "Borrel voor LHBTI+ mensen met autisme.",
+      "descriptionEn": "Drinks for LGBTI+ people with autism.",
+      "url": "https://www.cocmiddennederland.nl/events/autiroze-borrel-3",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
       "id": "amsterdam-2026-11-21-janey-25",
       "city": "Amsterdam",
       "date": "2026-11-21",
@@ -1615,6 +1757,28 @@
       "recurring": false,
       "confidence": "high",
       "community": false
+    },
+    {
+      "id": "utrecht-2026-11-22-50plus-dames-cafe",
+      "city": "Utrecht",
+      "date": "2026-11-22",
+      "start": "15:00",
+      "end": null,
+      "title": "50plus Dames Café",
+      "venue": "Doopsgezinde kerk",
+      "address": "Oudegracht 270",
+      "price": null,
+      "tags": [
+        "Borrel",
+        "50+",
+        "Sapphic"
+      ],
+      "description": "Café-middag voor vrouwen van 50Plus COC.",
+      "descriptionEn": "A café afternoon for women in the 50Plus COC group.",
+      "url": "https://www.cocmiddennederland.nl/events/50plus-dames-cafe",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
     },
     {
       "id": "den-haag-2026-11-25-eetcafe-bij-coc-haaglanden",
@@ -1659,6 +1823,27 @@
       "community": false
     },
     {
+      "id": "utrecht-2026-11-27-roze-eettafel-50plus-coc",
+      "city": "Utrecht",
+      "date": "2026-11-27",
+      "start": "18:00",
+      "end": null,
+      "title": "Roze Eettafel (50Plus COC)",
+      "venue": "Doopsgezinde kerk",
+      "address": "Oudegracht 270",
+      "price": null,
+      "tags": [
+        "Eten",
+        "50+"
+      ],
+      "description": "Samen eten met 50Plus COC Midden-Nederland.",
+      "descriptionEn": "A shared dinner with 50Plus COC Midden-Nederland.",
+      "url": "https://www.cocmiddennederland.nl/events/roze-eettafel-50plus-coc-mnl-2",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
       "id": "den-haag-2026-11-27-queer-vrijdag",
       "city": "Den Haag",
       "date": "2026-11-27",
@@ -1698,6 +1883,27 @@
       "recurring": false,
       "confidence": "high",
       "community": false
+    },
+    {
+      "id": "rotterdam-2026-11-29-sunday-afternoon-salon-50",
+      "city": "Rotterdam",
+      "date": "2026-11-29",
+      "start": "15:00",
+      "end": null,
+      "title": "Sunday Afternoon Salon (50+)",
+      "venue": "COC Rotterdam",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "50+"
+      ],
+      "description": "Middag met drankjes, hapjes en een optionele maaltijd voor LHBTQI+ 50-plussers.",
+      "descriptionEn": "Afternoon of drinks, snacks and an optional shared meal for LGBTQI+ people aged 50+.",
+      "url": "https://www.qmeet.nl/in/rotterdam/779/sunday-afternoon-salon",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
     }
   ]
 }
