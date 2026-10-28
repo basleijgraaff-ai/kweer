@@ -607,6 +607,26 @@
       "organizer": "COC Haaglanden"
     },
     {
+      "id": "haarlem-2026-11-01-rainbow-drinks-haarlem",
+      "city": "Haarlem",
+      "date": "2026-11-01",
+      "start": "14:00",
+      "end": null,
+      "title": "Rainbow Drinks Haarlem",
+      "venue": "Café de Lange Heer",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel"
+      ],
+      "description": "Maandelijkse ontspannen borrel voor de LHBTQ+ community en vrienden.",
+      "descriptionEn": "Monthly relaxed drinks for the LGBTQ+ community and allies.",
+      "url": "https://www.qmeet.nl/in/haarlem/410/rainbow-drinks-haarlem",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "den-haag-2026-11-01-zilveruitjes",
       "city": "Den Haag",
       "date": "2026-11-01",
@@ -1114,6 +1134,27 @@
       "organizer": "COC Haaglanden"
     },
     {
+      "id": "haarlem-2026-11-08-boardgame-group",
+      "city": "Haarlem",
+      "date": "2026-11-08",
+      "start": "14:00",
+      "end": null,
+      "title": "Boardgame Group",
+      "venue": "Boardroom Café",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Spelletjes",
+        "Chill"
+      ],
+      "description": "Spelletjesmiddag op de tweede zondag van de maand, met thee en ruimte voor je eigen favorieten.",
+      "descriptionEn": "Board game afternoon on the second Sunday of the month, with tea and room for your own favourites.",
+      "url": "https://www.qmeet.nl/in/haarlem/1049/boardgame-group",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "utrecht-2026-11-08-zondagmiddagborrel-50plus-coc",
       "city": "Utrecht",
       "date": "2026-11-08",
@@ -1155,6 +1196,27 @@
       "recurring": false,
       "confidence": "high",
       "community": true
+    },
+    {
+      "id": "nijmegen-2026-11-08-club-mix-40",
+      "city": "Nijmegen",
+      "date": "2026-11-08",
+      "start": "16:00",
+      "end": null,
+      "title": "CLUB MIX 40+",
+      "venue": "De Waagh",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Party",
+        "Dans"
+      ],
+      "description": "Ontspannen dansmiddag voor de queer community van Nijmegen, met bekende DJ’s.",
+      "descriptionEn": "A relaxed afternoon dance party for Nijmegen’s queer community, with well-known DJs.",
+      "url": "https://www.qmeet.nl/in/nijmegen/2007/club-mix-40-dance-event-nijmegen",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
     },
     {
       "id": "amsterdam-2026-11-08-de-trut",
@@ -1436,6 +1498,27 @@
       "organizer": "Vallende Sterren"
     },
     {
+      "id": "haarlem-2026-11-15-wandelen-met-coc-haarlem",
+      "city": "Haarlem",
+      "date": "2026-11-15",
+      "start": null,
+      "end": null,
+      "title": "Wandelen met COC Haarlem",
+      "venue": "Haarlem",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Wandeling"
+      ],
+      "description": "Groepswandeling op de derde zondag van de maand om mensen te ontmoeten.",
+      "descriptionEn": "Group walk on the third Sunday of the month to meet people.",
+      "url": "https://www.qmeet.nl/in/haarlem/447/haarlem-walk-with-coc",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true,
+      "organizer": "COC Kennemerland"
+    },
+    {
       "id": "den-haag-2026-11-16-queer-book-club-confessions-of-a-mask",
       "city": "Den Haag",
       "date": "2026-11-16",
@@ -1541,6 +1624,27 @@
       "organizer": "COC Haaglanden"
     },
     {
+      "id": "haarlem-2026-11-18-autiroze",
+      "city": "Haarlem",
+      "date": "2026-11-18",
+      "start": "19:00",
+      "end": null,
+      "title": "AutiRoze",
+      "venue": "Het Badhuis",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "Chill"
+      ],
+      "description": "Rustige borrel voor neurodivergente LHBTQ+ volwassenen.",
+      "descriptionEn": "A quiet drinks night for neurodivergent LGBTQ+ adults.",
+      "url": "https://www.qmeet.nl/in/haarlem/743/autiroze",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true
+    },
+    {
       "id": "utrecht-2026-11-18-queer-notes",
       "city": "Utrecht",
       "date": "2026-11-18",
@@ -1581,6 +1685,26 @@
       "confidence": "high",
       "community": false,
       "organizer": "COC Haaglanden"
+    },
+    {
+      "id": "eindhoven-2026-11-18-waiting-for-marsha",
+      "city": "Eindhoven",
+      "date": "2026-11-18",
+      "start": "20:30",
+      "end": null,
+      "title": "Waiting for Marsha",
+      "venue": "Natlab",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Theater"
+      ],
+      "description": "Voorstelling in een New Yorkse bar in 1969, vlak voor de Stonewall-rellen.",
+      "descriptionEn": "A show set in a New York bar in 1969, just before the Stonewall riots.",
+      "url": "https://www.qmeet.nl/in/eindhoven/1025/waiting-for-marsha",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
     },
     {
       "id": "amsterdam-2026-11-19-out-in-tech-amsterdam",
@@ -1729,6 +1853,26 @@
       "confidence": "medium",
       "community": true,
       "organizer": "COC Haaglanden"
+    },
+    {
+      "id": "haarlem-2026-11-20-mystiek-lichaam",
+      "city": "Haarlem",
+      "date": "2026-11-20",
+      "start": "20:00",
+      "end": null,
+      "title": "Mystiek Lichaam",
+      "venue": "Toneelschuur",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Theater"
+      ],
+      "description": "Toneelbewerking van Kellendonks roman over een weduwnaar en zijn twee volwassen kinderen.",
+      "descriptionEn": "Stage adaptation of Kellendonk’s novel about a widower and his two adult children.",
+      "url": "https://www.qmeet.nl/in/haarlem/1027/mystical-body",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
     },
     {
       "id": "amsterdam-2026-11-20-beyond-the-ball",
@@ -2003,6 +2147,27 @@
       "description": "Jong Utrechts koor met energieke popharmonieën.",
       "descriptionEn": "Young Utrecht choir with energetic pop harmonies.",
       "url": "https://www.qmeet.nl/in/utrecht/1667/dynamiq-voices-queer-choir",
+      "recurring": false,
+      "confidence": "high",
+      "community": false
+    },
+    {
+      "id": "leiden-2026-11-28-kenki-krin-krin",
+      "city": "Leiden",
+      "date": "2026-11-28",
+      "start": "20:30",
+      "end": null,
+      "title": "KENKI KRIN KRIN",
+      "venue": "Theater Ins Blau",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Theater",
+        "Dans"
+      ],
+      "description": "Interdisciplinaire voorstelling van maker en performer Cherella Gessel.",
+      "descriptionEn": "Interdisciplinary performance by maker and performer Cherella Gessel.",
+      "url": "https://www.qmeet.nl/in/leiden/1024/kenki-krin-krin",
       "recurring": false,
       "confidence": "high",
       "community": false
