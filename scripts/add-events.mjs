@@ -29,6 +29,7 @@ for (const e of extra) {
     recurring: e.recurring ?? false,
     confidence: e.recurring ? 'medium' : 'high',
     community: e.community ?? false,
+    ...(e.organizer ? { organizer: e.organizer } : {}),
   };
   if (seen.has(key(ev)) || ids.has(ev.id)) continue;
   seen.add(key(ev));

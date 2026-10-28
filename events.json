@@ -61,7 +61,8 @@
       "url": "https://www.instagram.com/barblend_/",
       "recurring": true,
       "confidence": "medium",
-      "community": false
+      "community": false,
+      "organizer": "Bar Blend"
     },
     {
       "id": "amsterdam-2026-10-27-queer-poetry-night",
@@ -123,7 +124,8 @@
       "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-10-28/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "rotterdam-2026-10-28-queer-comedy-night",
@@ -370,7 +372,8 @@
       "url": "https://mijn.bepride.nl/activiteiten.php?a=137",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "Be Pride"
     },
     {
       "id": "amsterdam-2026-10-30-trans-and-friends-cafe-inclusion-open-mic",
@@ -432,7 +435,8 @@
       "url": "https://www.cochaaglanden.nl/event/queer-vrijdag/2026-10-30/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "den-haag-2026-10-30-kenki-krin-krin",
@@ -599,7 +603,8 @@
       "url": "https://www.qmeet.nl/in/the-hague/523/queer-run-club",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "den-haag-2026-11-01-zilveruitjes",
@@ -620,7 +625,8 @@
       "url": "https://www.cochaaglanden.nl/event/zilveruitjes/2026-11-01/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "rotterdam-2026-11-01-transcafe",
@@ -641,7 +647,8 @@
       "url": "https://www.qmeet.nl/in/rotterdam/528/transcaf-coc-rotterdam",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Rotterdam"
     },
     {
       "id": "den-haag-2026-11-01-trans-zwemmen-bij-plons",
@@ -725,7 +732,8 @@
       "url": "https://www.instagram.com/vallendesterrendepodcast/",
       "recurring": true,
       "confidence": "medium",
-      "community": false
+      "community": false,
+      "organizer": "Vallende Sterren"
     },
     {
       "id": "amsterdam-2026-11-02-bingo-bar-blend",
@@ -746,7 +754,8 @@
       "url": "https://www.instagram.com/barblend_/",
       "recurring": true,
       "confidence": "medium",
-      "community": false
+      "community": false,
+      "organizer": "Bar Blend"
     },
     {
       "id": "den-haag-2026-11-04-eetcafe-bij-coc-haaglanden",
@@ -767,7 +776,8 @@
       "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-11-04/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "rotterdam-2026-11-04-mystiek-lichaam",
@@ -889,7 +899,8 @@
       "url": "https://www.cochaaglanden.nl/event/queer-vrijdag/2026-11-06/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "amsterdam-2026-11-06-emily-salvia-before-i-m-30",
@@ -931,7 +942,8 @@
       "url": "https://www.cocmiddennederland.nl/events/roze-wandeling-50plus-coc-mnl-2",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Midden-Nederland"
     },
     {
       "id": "rotterdam-2026-11-07-zine-workshop-gratis-soa-test",
@@ -973,7 +985,8 @@
       "url": "https://www.qmeet.nl/in/the-hague/1824/jam-session",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "den-haag-2026-11-07-jam-sessie",
@@ -994,7 +1007,8 @@
       "url": "https://www.cochaaglanden.nl/event/jam-sessie/2026-11-07/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "amsterdam-2026-11-07-museumnacht-the-archive-is-alive",
@@ -1096,7 +1110,8 @@
       "url": "https://www.qmeet.nl/in/the-hague/1823/ooxo-for-queers-with-a-disability",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "utrecht-2026-11-08-zondagmiddagborrel-50plus-coc",
@@ -1117,7 +1132,8 @@
       "url": "https://www.cocmiddennederland.nl/events/zondagmiddag-borrel-50plus-coc-mnl-2",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Midden-Nederland"
     },
     {
       "id": "amsterdam-2026-11-08-queer-crafting",
@@ -1181,7 +1197,8 @@
       "url": "https://www.instagram.com/vallendesterrendepodcast/",
       "recurring": true,
       "confidence": "medium",
-      "community": false
+      "community": false,
+      "organizer": "Vallende Sterren"
     },
     {
       "id": "amsterdam-2026-11-09-bingo-bar-blend",
@@ -1202,7 +1219,8 @@
       "url": "https://www.instagram.com/barblend_/",
       "recurring": true,
       "confidence": "medium",
-      "community": false
+      "community": false,
+      "organizer": "Bar Blend"
     },
     {
       "id": "den-haag-2026-11-11-eetcafe-bij-coc-haaglanden",
@@ -1223,7 +1241,8 @@
       "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-11-11/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "amsterdam-2026-11-12-rainbow-living-room-dance-palace",
@@ -1265,7 +1284,8 @@
       "url": "https://www.cochaaglanden.nl/event/queer-vrijdag/2026-11-13/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "utrecht-2026-11-13-waiting-for-marsha",
@@ -1306,7 +1326,8 @@
       "url": "https://www.qmeet.nl/in/the-hague/443/blahaj-blast",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "amsterdam-2026-11-14-gay80s90s",
@@ -1388,7 +1409,8 @@
       "url": "https://www.cochaaglanden.nl/event/zilveruitjes-2/2026-11-15/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "online-2026-11-15-vallende-sterren-de-podcast-nieuwe-aflevering",
@@ -1410,7 +1432,8 @@
       "url": "https://www.instagram.com/vallendesterrendepodcast/",
       "recurring": true,
       "confidence": "medium",
-      "community": false
+      "community": false,
+      "organizer": "Vallende Sterren"
     },
     {
       "id": "den-haag-2026-11-16-queer-book-club-confessions-of-a-mask",
@@ -1471,7 +1494,8 @@
       "url": "https://www.instagram.com/barblend_/",
       "recurring": true,
       "confidence": "medium",
-      "community": false
+      "community": false,
+      "organizer": "Bar Blend"
     },
     {
       "id": "amsterdam-2026-11-17-new-shit",
@@ -1513,7 +1537,8 @@
       "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-11-18/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "utrecht-2026-11-18-queer-notes",
@@ -1554,7 +1579,8 @@
       "url": "https://www.qmeet.nl/in/the-hague/1821/orpheus",
       "recurring": false,
       "confidence": "high",
-      "community": false
+      "community": false,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "amsterdam-2026-11-19-out-in-tech-amsterdam",
@@ -1679,7 +1705,8 @@
       "url": "https://www.qmeet.nl/in/the-hague/1544/rainbow-living-room-dance-palace",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "den-haag-2026-11-20-regenboog-huiskamer-danspaleis",
@@ -1700,7 +1727,8 @@
       "url": "https://www.cochaaglanden.nl/event/regenboog-huiskamer-danspaleis/2026-11-20/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "amsterdam-2026-11-20-beyond-the-ball",
@@ -1761,7 +1789,8 @@
       "url": "https://klupkweer.nl/events/workshop/",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "KLUP KWEER"
     },
     {
       "id": "utrecht-2026-11-21-autiroze-borrel",
@@ -1781,7 +1810,8 @@
       "url": "https://www.cocmiddennederland.nl/events/autiroze-borrel-3",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Midden-Nederland"
     },
     {
       "id": "amsterdam-2026-11-21-janey-25",
@@ -1844,7 +1874,8 @@
       "url": "https://www.cocmiddennederland.nl/events/50plus-dames-cafe",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Midden-Nederland"
     },
     {
       "id": "online-2026-11-22-vallende-sterren-de-podcast-nieuwe-aflevering",
@@ -1866,7 +1897,8 @@
       "url": "https://www.instagram.com/vallendesterrendepodcast/",
       "recurring": true,
       "confidence": "medium",
-      "community": false
+      "community": false,
+      "organizer": "Vallende Sterren"
     },
     {
       "id": "den-haag-2026-11-25-eetcafe-bij-coc-haaglanden",
@@ -1887,7 +1919,8 @@
       "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-11-25/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "utrecht-2026-11-26-in-gesprek-met-queer-asielzoekers",
@@ -1929,7 +1962,8 @@
       "url": "https://www.cocmiddennederland.nl/events/roze-eettafel-50plus-coc-mnl-2",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Midden-Nederland"
     },
     {
       "id": "den-haag-2026-11-27-queer-vrijdag",
@@ -1950,7 +1984,8 @@
       "url": "https://www.cochaaglanden.nl/event/queer-vrijdag/2026-11-27/",
       "recurring": true,
       "confidence": "medium",
-      "community": true
+      "community": true,
+      "organizer": "COC Haaglanden"
     },
     {
       "id": "utrecht-2026-11-28-dynamiq-voices-queer-koor",
@@ -1991,7 +2026,8 @@
       "url": "https://www.qmeet.nl/in/rotterdam/779/sunday-afternoon-salon",
       "recurring": false,
       "confidence": "high",
-      "community": true
+      "community": true,
+      "organizer": "COC Rotterdam"
     },
     {
       "id": "online-2026-11-29-vallende-sterren-de-podcast-nieuwe-aflevering",
@@ -2013,7 +2049,8 @@
       "url": "https://www.instagram.com/vallendesterrendepodcast/",
       "recurring": true,
       "confidence": "medium",
-      "community": false
+      "community": false,
+      "organizer": "Vallende Sterren"
     }
   ]
 }

@@ -1,7 +1,7 @@
 // Validates events.json against the shape the kweer app reads. Exits 1 on any problem.
 import { readFileSync } from 'node:fs';
 
-const CITIES = ['Amsterdam', 'Utrecht', 'Rotterdam', 'Den Haag', 'Online'];
+const CITIES = ['Amsterdam', 'Utrecht', 'Rotterdam', 'Den Haag', 'Groningen', 'Eindhoven', 'Nijmegen', 'Haarlem', 'Leiden', 'Arnhem', 'Online'];
 const feed = JSON.parse(readFileSync(new URL('../events.json', import.meta.url), 'utf8'));
 const errors = [];
 const ids = new Set();
@@ -30,6 +30,7 @@ for (const [i, e] of (feed.events ?? []).entries()) {
   if (typeof e.recurring !== 'boolean') errors.push(`${where}: recurring must be boolean`);
   if (!['high', 'medium'].includes(e.confidence)) errors.push(`${where}: confidence must be high or medium`);
   if (typeof e.community !== 'boolean') errors.push(`${where}: community must be boolean`);
+  if (e.organizer !== undefined && (typeof e.organizer !== 'string' || !e.organizer.trim())) errors.push(`${where}: organizer must be a non-empty string when set`);
 }
 
 if (errors.length) {
