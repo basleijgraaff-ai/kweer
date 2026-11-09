@@ -1,513 +1,6 @@
 {
-  "checkedAt": "2026-11-02",
+  "checkedAt": "2026-11-09",
   "events": [
-    {
-      "id": "amsterdam-2026-11-02-bingo-bar-blend",
-      "city": "Amsterdam",
-      "date": "2026-11-02",
-      "start": null,
-      "end": null,
-      "title": "Bingo Monday met Nicky Jakk",
-      "venue": "Bar Blend",
-      "address": "Reguliersdwarsstraat 41",
-      "price": "gratis",
-      "tags": [
-        "Spelletjes",
-        "Drag"
-      ],
-      "description": "Elke maandag bingo met host Nicky Jakk en shows tussendoor. Gratis entree.",
-      "descriptionEn": "Bingo every Monday hosted by Nicky Jakk, with shows in between. Free entry.",
-      "url": "https://www.instagram.com/barblend_/",
-      "recurring": true,
-      "confidence": "medium",
-      "community": false,
-      "organizer": "Bar Blend"
-    },
-    {
-      "id": "den-haag-2026-11-04-eetcafe-bij-coc-haaglanden",
-      "city": "Den Haag",
-      "date": "2026-11-04",
-      "start": "16:00",
-      "end": "21:00",
-      "title": "Eetcafé bij COC Haaglanden",
-      "venue": "COC Haaglanden",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Eten",
-        "Borrel"
-      ],
-      "description": "Elke woensdag samen eten in het COC.",
-      "descriptionEn": "Shared dinner at the COC every Wednesday.",
-      "url": "https://www.cochaaglanden.nl/event/eetcafe-elke-woensdag-bij-coc-haaglanden-7-4/2026-11-04/",
-      "recurring": true,
-      "confidence": "medium",
-      "community": true,
-      "organizer": "COC Haaglanden"
-    },
-    {
-      "id": "rotterdam-2026-11-04-mystiek-lichaam",
-      "city": "Rotterdam",
-      "date": "2026-11-04",
-      "start": "20:15",
-      "end": null,
-      "title": "Mystiek Lichaam",
-      "venue": "Theater Rotterdam (TR25)",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Theater"
-      ],
-      "description": "Toneelbewerking van Kellendonks roman over een weduwnaar en zijn twee volwassen kinderen.",
-      "descriptionEn": "Stage adaptation of Kellendonk’s novel about a widower and his two adult children.",
-      "url": "https://www.qmeet.nl/in/rotterdam/1027/mystical-body",
-      "recurring": false,
-      "confidence": "high",
-      "community": false
-    },
-    {
-      "id": "rotterdam-2026-11-04-women-s-eve-2026",
-      "city": "Rotterdam",
-      "date": "2026-11-04",
-      "start": "20:30",
-      "end": null,
-      "title": "Women's Eve 2026",
-      "venue": "Theater Walhalla",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Comedy",
-        "Muziek"
-      ],
-      "description": "Alternatieve oudejaarsshow met vrouwelijke artiesten: stand-up, cabaret en muziek.",
-      "descriptionEn": "Alternative New Year’s Eve show with women artists: stand-up, cabaret and music.",
-      "url": "https://www.qmeet.nl/in/rotterdam/1912/women-s-eve-2026",
-      "recurring": false,
-      "confidence": "high",
-      "community": false
-    },
-    {
-      "id": "amsterdam-2026-11-05-pinkoost",
-      "city": "Amsterdam",
-      "date": "2026-11-05",
-      "start": "20:00",
-      "end": null,
-      "title": "PINKOOST",
-      "venue": "Café De Kleine Bes",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Borrel"
-      ],
-      "description": "Queer borrel in Amsterdam-Oost.",
-      "descriptionEn": "Queer drinks in Amsterdam-Oost.",
-      "url": "https://www.qmeet.nl/in/amsterdam/752/pinkoost",
-      "recurring": false,
-      "confidence": "high",
-      "community": true
-    },
-    {
-      "id": "amsterdam-2026-11-06-the-hours",
-      "city": "Amsterdam",
-      "date": "2026-11-06",
-      "start": "19:30",
-      "end": null,
-      "title": "The Hours",
-      "venue": "Internationaal Theater Amsterdam",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Theater"
-      ],
-      "description": "Toneelbewerking van The Hours, het verhaal van drie vrouwen rond Mrs Dalloway.",
-      "descriptionEn": "Stage version of The Hours, three women connected through Mrs Dalloway.",
-      "url": "https://www.qmeet.nl/in/amsterdam/1794/the-hours",
-      "recurring": false,
-      "confidence": "high",
-      "community": false
-    },
-    {
-      "id": "den-haag-2026-11-06-queer-choir-in-concert",
-      "city": "Den Haag",
-      "date": "2026-11-06",
-      "start": "20:00",
-      "end": null,
-      "title": "Queer Choir in Concert",
-      "venue": "Deutsche Evangelische Gemeinde",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Muziek"
-      ],
-      "description": "Debuutconcert van een nieuw queer koor: slaapliedjes, protestliederen en anthems.",
-      "descriptionEn": "Debut concert by a new queer choir: lullabies, protest songs and anthems.",
-      "url": "https://www.qmeet.nl/in/the-hague/1939/queer-choir-in-concert",
-      "recurring": false,
-      "confidence": "high",
-      "community": false
-    },
-    {
-      "id": "den-haag-2026-11-06-queer-vrijdag",
-      "city": "Den Haag",
-      "date": "2026-11-06",
-      "start": "20:00",
-      "end": "23:00",
-      "title": "Queer Vrijdag",
-      "venue": "COC Café",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Borrel",
-        "Chill"
-      ],
-      "description": "Ontspannen vrijdagavond in het COC-café om nieuwe mensen te ontmoeten.",
-      "descriptionEn": "A relaxed Friday evening at the COC café to meet new people.",
-      "url": "https://www.cochaaglanden.nl/event/queer-vrijdag/2026-11-06/",
-      "recurring": true,
-      "confidence": "medium",
-      "community": true,
-      "organizer": "COC Haaglanden"
-    },
-    {
-      "id": "amsterdam-2026-11-06-emily-salvia-before-i-m-30",
-      "city": "Amsterdam",
-      "date": "2026-11-06",
-      "start": "21:00",
-      "end": null,
-      "title": "Emily Salvia: Before I’m 30",
-      "venue": "De Richel",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Drag",
-        "Comedy"
-      ],
-      "description": "Dragcabaret van Emily Salvia.",
-      "descriptionEn": "Drag cabaret by Emily Salvia.",
-      "url": "https://www.qmeet.nl/in/amsterdam/1701/emily-salvia-before-i-m-30",
-      "recurring": false,
-      "confidence": "high",
-      "community": false
-    },
-    {
-      "id": "utrecht-2026-11-07-roze-wandeling-50plus-coc",
-      "city": "Utrecht",
-      "date": "2026-11-07",
-      "start": "08:00",
-      "end": "18:00",
-      "title": "Roze Wandeling (50Plus COC)",
-      "venue": "COC Midden-Nederland",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Wandeling",
-        "50+"
-      ],
-      "description": "Wandeldag van 50Plus COC Midden-Nederland.",
-      "descriptionEn": "A walking day organised by 50Plus COC Midden-Nederland.",
-      "url": "https://www.cocmiddennederland.nl/events/roze-wandeling-50plus-coc-mnl-2",
-      "recurring": false,
-      "confidence": "high",
-      "community": true,
-      "organizer": "COC Midden-Nederland"
-    },
-    {
-      "id": "rotterdam-2026-11-07-zine-workshop-gratis-soa-test",
-      "city": "Rotterdam",
-      "date": "2026-11-07",
-      "start": "13:00",
-      "end": null,
-      "title": "Zine-workshop + gratis soa-test",
-      "venue": "Queer Rotterdam",
-      "address": null,
-      "price": "gratis",
-      "tags": [
-        "Creatief",
-        "Gezondheid"
-      ],
-      "description": "Zines maken, met op afspraak een gratis soa-test van de GGD.",
-      "descriptionEn": "Make zines, with free STI testing by appointment from the GGD.",
-      "url": "https://www.qmeet.nl/in/rotterdam/1999/zine-workshop-and-free-sti-testing",
-      "recurring": false,
-      "confidence": "high",
-      "community": true
-    },
-    {
-      "id": "den-haag-2026-11-07-jam-session",
-      "city": "Den Haag",
-      "date": "2026-11-07",
-      "start": "14:00",
-      "end": null,
-      "title": "Jam Session",
-      "venue": "COC Haaglanden",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Muziek",
-        "Chill"
-      ],
-      "description": "Ontspannen jazz-jamsessie voor spelers, zangers en luisteraars.",
-      "descriptionEn": "Relaxed jazz jam session for players, singers and listeners.",
-      "url": "https://www.qmeet.nl/in/the-hague/1824/jam-session",
-      "recurring": false,
-      "confidence": "high",
-      "community": true,
-      "organizer": "COC Haaglanden"
-    },
-    {
-      "id": "den-haag-2026-11-07-jam-sessie",
-      "city": "Den Haag",
-      "date": "2026-11-07",
-      "start": "14:00",
-      "end": "17:00",
-      "title": "Jam Sessie",
-      "venue": "COC Haaglanden",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Muziek",
-        "Chill"
-      ],
-      "description": "Ontspannen jazz-jamsessie voor spelers, zangers en luisteraars.",
-      "descriptionEn": "Relaxed jazz jam session for players, singers and listeners.",
-      "url": "https://www.cochaaglanden.nl/event/jam-sessie/2026-11-07/",
-      "recurring": true,
-      "confidence": "medium",
-      "community": true,
-      "organizer": "COC Haaglanden"
-    },
-    {
-      "id": "amsterdam-2026-11-07-museumnacht-the-archive-is-alive",
-      "city": "Amsterdam",
-      "date": "2026-11-07",
-      "start": "19:00",
-      "end": null,
-      "title": "Museumnacht: The Archive Is Alive",
-      "venue": "Internationaal Theater Amsterdam",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Cultuur"
-      ],
-      "description": "Museumnacht-programma rond queer archieven en theatergeschiedenis.",
-      "descriptionEn": "Museum Night programme about queer archives and theatre history.",
-      "url": "https://www.qmeet.nl/in/amsterdam/1965/museum-night-the-archive-is-alive",
-      "recurring": false,
-      "confidence": "high",
-      "community": false
-    },
-    {
-      "id": "rotterdam-2026-11-07-queering-intimacy-workshop",
-      "city": "Rotterdam",
-      "date": "2026-11-07",
-      "start": "19:00",
-      "end": null,
-      "title": "Queering intimacy workshop",
-      "venue": "Queer Rotterdam",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Talk"
-      ],
-      "description": "Gesprek over intimiteit buiten romantische relaties, zoals vriendschap en community.",
-      "descriptionEn": "A conversation about intimacy beyond romantic relationships, like friendship and community.",
-      "url": "https://www.qmeet.nl/in/rotterdam/2000/queering-intimacy-workshop",
-      "recurring": false,
-      "confidence": "high",
-      "community": true
-    },
-    {
-      "id": "den-haag-2026-11-07-jeanette-winterson-in-gesprek",
-      "city": "Den Haag",
-      "date": "2026-11-07",
-      "start": "20:00",
-      "end": null,
-      "title": "Jeanette Winterson in gesprek",
-      "venue": "Koninklijke Schouwburg",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Boeken",
-        "Cultuur"
-      ],
-      "description": "Schrijver Jeanette Winterson praat met Toef Jaeger over haar werk.",
-      "descriptionEn": "Author Jeanette Winterson talks with Toef Jaeger about her work.",
-      "url": "https://www.qmeet.nl/in/the-hague/1913/jeanette-winterson-in-conversation-with-toef-jaeger",
-      "recurring": false,
-      "confidence": "high",
-      "community": false
-    },
-    {
-      "id": "rotterdam-2026-11-08-queer-sunday-cafe-vintage-market",
-      "city": "Rotterdam",
-      "date": "2026-11-08",
-      "start": "13:00",
-      "end": null,
-      "title": "Queer Sunday Café + Vintage Market",
-      "venue": "OASE Rotterdam",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Sapphic",
-        "Markt"
-      ],
-      "description": "Koffie, kennismakingsspelletjes en een vintagemarkt voor queer vrouwen.",
-      "descriptionEn": "Coffee, icebreaker games and a vintage market for queer women.",
-      "url": "https://www.qmeet.nl/in/rotterdam/1202/queer-sunday-caf-vintage-market",
-      "recurring": false,
-      "confidence": "high",
-      "community": true
-    },
-    {
-      "id": "den-haag-2026-11-08-ooxo-voor-queers-met-een-beperking",
-      "city": "Den Haag",
-      "date": "2026-11-08",
-      "start": "13:00",
-      "end": null,
-      "title": "OOXO: voor queers met een beperking",
-      "venue": "COC Haaglanden",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Chill"
-      ],
-      "description": "Maandelijkse middag met activiteiten voor queer mensen met een lichamelijke of verstandelijke beperking.",
-      "descriptionEn": "Monthly afternoon of activities for queer people with a physical or intellectual disability.",
-      "url": "https://www.qmeet.nl/in/the-hague/1823/ooxo-for-queers-with-a-disability",
-      "recurring": false,
-      "confidence": "high",
-      "community": true,
-      "organizer": "COC Haaglanden"
-    },
-    {
-      "id": "haarlem-2026-11-08-boardgame-group",
-      "city": "Haarlem",
-      "date": "2026-11-08",
-      "start": "14:00",
-      "end": null,
-      "title": "Boardgame Group",
-      "venue": "Boardroom Café",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Spelletjes",
-        "Chill"
-      ],
-      "description": "Spelletjesmiddag op de tweede zondag van de maand, met thee en ruimte voor je eigen favorieten.",
-      "descriptionEn": "Board game afternoon on the second Sunday of the month, with tea and room for your own favourites.",
-      "url": "https://www.qmeet.nl/in/haarlem/1049/boardgame-group",
-      "recurring": true,
-      "confidence": "medium",
-      "community": true
-    },
-    {
-      "id": "utrecht-2026-11-08-zondagmiddagborrel-50plus-coc",
-      "city": "Utrecht",
-      "date": "2026-11-08",
-      "start": "15:00",
-      "end": null,
-      "title": "Zondagmiddagborrel (50Plus COC)",
-      "venue": "Doopsgezinde kerk",
-      "address": "Oudegracht 270",
-      "price": null,
-      "tags": [
-        "Borrel",
-        "50+"
-      ],
-      "description": "Zondagmiddagborrel voor LHBTI+ 50-plussers.",
-      "descriptionEn": "Sunday afternoon drinks for LGBTI+ people aged 50+.",
-      "url": "https://www.cocmiddennederland.nl/events/zondagmiddag-borrel-50plus-coc-mnl-2",
-      "recurring": false,
-      "confidence": "high",
-      "community": true,
-      "organizer": "COC Midden-Nederland"
-    },
-    {
-      "id": "amsterdam-2026-11-08-queer-crafting",
-      "city": "Amsterdam",
-      "date": "2026-11-08",
-      "start": "16:00",
-      "end": null,
-      "title": "Queer Crafting",
-      "venue": "Bar Buka",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Creatief",
-        "Chill"
-      ],
-      "description": "Neem je eigen haak-, brei- of knutselproject mee en maak samen dingen.",
-      "descriptionEn": "Bring your own crochet, knitting or craft project and make things together.",
-      "url": "https://www.qmeet.nl/in/amsterdam/68/queer-crafting-at-bar-buka",
-      "recurring": false,
-      "confidence": "high",
-      "community": true
-    },
-    {
-      "id": "nijmegen-2026-11-08-club-mix-40",
-      "city": "Nijmegen",
-      "date": "2026-11-08",
-      "start": "16:00",
-      "end": null,
-      "title": "CLUB MIX 40+",
-      "venue": "De Waagh",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Party",
-        "Dans"
-      ],
-      "description": "Ontspannen dansmiddag voor de queer community van Nijmegen, met bekende DJ’s.",
-      "descriptionEn": "A relaxed afternoon dance party for Nijmegen’s queer community, with well-known DJs.",
-      "url": "https://www.qmeet.nl/in/nijmegen/2007/club-mix-40-dance-event-nijmegen",
-      "recurring": false,
-      "confidence": "high",
-      "community": false
-    },
-    {
-      "id": "amsterdam-2026-11-08-de-trut",
-      "city": "Amsterdam",
-      "date": "2026-11-08",
-      "start": "22:00",
-      "end": "03:00",
-      "title": "De Trut",
-      "venue": "De Trut",
-      "address": "Bilderdijkstraat 165E",
-      "price": null,
-      "tags": [
-        "Party",
-        "Alleen contant"
-      ],
-      "description": "Wekelijkse queer disco door vrijwilligers; de opbrengst gaat naar LHBTQ+-doelen.",
-      "descriptionEn": "Weekly volunteer-run queer disco; profits go to LGBTQ+ causes.",
-      "url": "https://www.misterbandb.com/gay-guide/netherlands/amsterdam/parties",
-      "recurring": true,
-      "confidence": "medium",
-      "community": false
-    },
-    {
-      "id": "online-2026-11-08-vallende-sterren-de-podcast-nieuwe-aflevering",
-      "city": "Online",
-      "date": "2026-11-08",
-      "start": null,
-      "end": null,
-      "title": "Vallende Sterren de Podcast: nieuwe aflevering",
-      "venue": "Online",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Podcast",
-        "Online",
-        "Drag"
-      ],
-      "description": "Elke zondag een nieuwe aflevering van de queer podcast van dragqueens Nicky Jakk en Glam from the Dam.",
-      "descriptionEn": "A new episode every Sunday of the queer podcast by drag queens Nicky Jakk and Glam from the Dam.",
-      "url": "https://www.instagram.com/vallendesterrendepodcast/",
-      "recurring": true,
-      "confidence": "medium",
-      "community": false,
-      "organizer": "Vallende Sterren"
-    },
     {
       "id": "amsterdam-2026-11-09-bingo-bar-blend",
       "city": "Amsterdam",
@@ -678,49 +171,6 @@
       "community": false
     },
     {
-      "id": "amsterdam-2026-11-15-pink-in-kadoelen",
-      "city": "Amsterdam",
-      "date": "2026-11-15",
-      "start": "13:00",
-      "end": null,
-      "title": "Pink in Kadoelen",
-      "venue": "Kadoelen",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Borrel",
-        "50+"
-      ],
-      "description": "Middag voor oudere LHBTI+ mensen in Amsterdam-Noord.",
-      "descriptionEn": "An afternoon for older LGBTI+ people in Amsterdam-Noord.",
-      "url": "https://www.qmeet.nl/in/amsterdam/616/pink-in-kadoelen",
-      "recurring": false,
-      "confidence": "high",
-      "community": true
-    },
-    {
-      "id": "den-haag-2026-11-15-zilveruitjes",
-      "city": "Den Haag",
-      "date": "2026-11-15",
-      "start": "15:00",
-      "end": "21:00",
-      "title": "Zilveruitjes",
-      "venue": "COC Haaglanden",
-      "address": null,
-      "price": null,
-      "tags": [
-        "Borrel",
-        "50+"
-      ],
-      "description": "Gezellige middag voor regenboogsenioren, met een drankje en soms een uitje.",
-      "descriptionEn": "A social afternoon for rainbow seniors, with drinks and sometimes an outing.",
-      "url": "https://www.cochaaglanden.nl/event/zilveruitjes-2/2026-11-15/",
-      "recurring": true,
-      "confidence": "medium",
-      "community": true,
-      "organizer": "COC Haaglanden"
-    },
-    {
       "id": "online-2026-11-15-vallende-sterren-de-podcast-nieuwe-aflevering",
       "city": "Online",
       "date": "2026-11-15",
@@ -765,6 +215,71 @@
       "organizer": "COC Kennemerland"
     },
     {
+      "id": "amsterdam-2026-11-15-pink-in-kadoelen",
+      "city": "Amsterdam",
+      "date": "2026-11-15",
+      "start": "13:00",
+      "end": null,
+      "title": "Pink in Kadoelen",
+      "venue": "Kadoelen",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "50+"
+      ],
+      "description": "Middag voor oudere LHBTI+ mensen in Amsterdam-Noord.",
+      "descriptionEn": "An afternoon for older LGBTI+ people in Amsterdam-Noord.",
+      "url": "https://www.qmeet.nl/in/amsterdam/616/pink-in-kadoelen",
+      "recurring": false,
+      "confidence": "high",
+      "community": true
+    },
+    {
+      "id": "den-haag-2026-11-15-zilveruitjes",
+      "city": "Den Haag",
+      "date": "2026-11-15",
+      "start": "15:00",
+      "end": "21:00",
+      "title": "Zilveruitjes",
+      "venue": "COC Haaglanden",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Borrel",
+        "50+"
+      ],
+      "description": "Gezellige middag voor regenboogsenioren, met een drankje en soms een uitje.",
+      "descriptionEn": "A social afternoon for rainbow seniors, with drinks and sometimes an outing.",
+      "url": "https://www.cochaaglanden.nl/event/zilveruitjes-2/2026-11-15/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": true,
+      "organizer": "COC Haaglanden"
+    },
+    {
+      "id": "amsterdam-2026-11-16-bingo-bar-blend",
+      "city": "Amsterdam",
+      "date": "2026-11-16",
+      "start": null,
+      "end": null,
+      "title": "Bingo Monday met Nicky Jakk",
+      "venue": "Bar Blend",
+      "address": "Reguliersdwarsstraat 41",
+      "price": "gratis",
+      "tags": [
+        "Spelletjes",
+        "Drag"
+      ],
+      "description": "Elke maandag bingo met host Nicky Jakk en shows tussendoor. Gratis entree.",
+      "descriptionEn": "Bingo every Monday hosted by Nicky Jakk, with shows in between. Free entry.",
+      "url": "https://www.instagram.com/barblend_/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": false,
+      "organizer": "Bar Blend"
+    },
+    {
       "id": "den-haag-2026-11-16-queer-book-club-confessions-of-a-mask",
       "city": "Den Haag",
       "date": "2026-11-16",
@@ -803,28 +318,6 @@
       "recurring": false,
       "confidence": "high",
       "community": true
-    },
-    {
-      "id": "amsterdam-2026-11-16-bingo-bar-blend",
-      "city": "Amsterdam",
-      "date": "2026-11-16",
-      "start": null,
-      "end": null,
-      "title": "Bingo Monday met Nicky Jakk",
-      "venue": "Bar Blend",
-      "address": "Reguliersdwarsstraat 41",
-      "price": "gratis",
-      "tags": [
-        "Spelletjes",
-        "Drag"
-      ],
-      "description": "Elke maandag bingo met host Nicky Jakk en shows tussendoor. Gratis entree.",
-      "descriptionEn": "Bingo every Monday hosted by Nicky Jakk, with shows in between. Free entry.",
-      "url": "https://www.instagram.com/barblend_/",
-      "recurring": true,
-      "confidence": "medium",
-      "community": false,
-      "organizer": "Bar Blend"
     },
     {
       "id": "amsterdam-2026-11-17-new-shit",
@@ -1245,29 +738,6 @@
       "community": false
     },
     {
-      "id": "utrecht-2026-11-22-50plus-dames-cafe",
-      "city": "Utrecht",
-      "date": "2026-11-22",
-      "start": "15:00",
-      "end": null,
-      "title": "50plus Dames Café",
-      "venue": "Doopsgezinde kerk",
-      "address": "Oudegracht 270",
-      "price": null,
-      "tags": [
-        "Borrel",
-        "50+",
-        "Sapphic"
-      ],
-      "description": "Café-middag voor vrouwen van 50Plus COC.",
-      "descriptionEn": "A café afternoon for women in the 50Plus COC group.",
-      "url": "https://www.cocmiddennederland.nl/events/50plus-dames-cafe",
-      "recurring": false,
-      "confidence": "high",
-      "community": true,
-      "organizer": "COC Midden-Nederland"
-    },
-    {
       "id": "online-2026-11-22-vallende-sterren-de-podcast-nieuwe-aflevering",
       "city": "Online",
       "date": "2026-11-22",
@@ -1289,6 +759,29 @@
       "confidence": "medium",
       "community": false,
       "organizer": "Vallende Sterren"
+    },
+    {
+      "id": "utrecht-2026-11-22-50plus-dames-cafe",
+      "city": "Utrecht",
+      "date": "2026-11-22",
+      "start": "15:00",
+      "end": null,
+      "title": "50plus Dames Café",
+      "venue": "Doopsgezinde kerk",
+      "address": "Oudegracht 270",
+      "price": null,
+      "tags": [
+        "Borrel",
+        "50+",
+        "Sapphic"
+      ],
+      "description": "Café-middag voor vrouwen van 50Plus COC.",
+      "descriptionEn": "A café afternoon for women in the 50Plus COC group.",
+      "url": "https://www.cocmiddennederland.nl/events/50plus-dames-cafe",
+      "recurring": false,
+      "confidence": "high",
+      "community": true,
+      "organizer": "COC Midden-Nederland"
     },
     {
       "id": "den-haag-2026-11-25-eetcafe-bij-coc-haaglanden",
@@ -1419,6 +912,29 @@
       "community": false
     },
     {
+      "id": "online-2026-11-29-vallende-sterren-de-podcast-nieuwe-aflevering",
+      "city": "Online",
+      "date": "2026-11-29",
+      "start": null,
+      "end": null,
+      "title": "Vallende Sterren de Podcast: nieuwe aflevering",
+      "venue": "Online",
+      "address": null,
+      "price": null,
+      "tags": [
+        "Podcast",
+        "Online",
+        "Drag"
+      ],
+      "description": "Elke zondag een nieuwe aflevering van de queer podcast van dragqueens Nicky Jakk en Glam from the Dam.",
+      "descriptionEn": "A new episode every Sunday of the queer podcast by drag queens Nicky Jakk and Glam from the Dam.",
+      "url": "https://www.instagram.com/vallendesterrendepodcast/",
+      "recurring": true,
+      "confidence": "medium",
+      "community": false,
+      "organizer": "Vallende Sterren"
+    },
+    {
       "id": "rotterdam-2026-11-29-sunday-afternoon-salon-50",
       "city": "Rotterdam",
       "date": "2026-11-29",
@@ -1441,9 +957,9 @@
       "organizer": "COC Rotterdam"
     },
     {
-      "id": "online-2026-11-29-vallende-sterren-de-podcast-nieuwe-aflevering",
+      "id": "online-2026-12-06-vallende-sterren-de-podcast-nieuwe-aflevering",
       "city": "Online",
-      "date": "2026-11-29",
+      "date": "2026-12-06",
       "start": null,
       "end": null,
       "title": "Vallende Sterren de Podcast: nieuwe aflevering",
